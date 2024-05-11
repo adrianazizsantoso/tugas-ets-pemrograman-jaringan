@@ -3,7 +3,7 @@
 - Kelas: Pemrograman Jaringan C
 - Tanggal: Sabtu, 6 April 2024
 
-Dengan memanfaatkan program pada progjar5`: https://github.com/rm77/progjar/tree/master/progjar5, 
+Dengan memanfaatkan program pada `progjar5`: https://github.com/rm77/progjar/tree/master/progjar5, 
 
 - Gunakan contoh source code yang disediakan, untuk dimodifikasi 
 - Gunakan instalasi lab Anda sendiri 

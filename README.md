@@ -28,17 +28,17 @@ Dengan memanfaatkan program pada progjar5`:
 - Untuk meningkatkan performa, hilangkan beberapa overhead seperti Print / mencetak log seluruh isi direktori / folder 
 - `Apache-benchmark` dapat diinstall di ubuntu/debian dengan `sudo apt install apache2-utils`
 
-- Laporan disubmit dalam bentuk 
-  - 1 dokumen PDF, maks 10 halaman 
-  - Isikan alamat repository yang berkaitan dengan tugas diatas
-  - Spek komputer yang digunakan untuk menjalankan server dan melakukan testing, beserta gambar arsitektur percobaan
-  - Tabel perbandingan dalam PDF yang sama dan lengkapi dengan penjelasan dan deskripsi dan kesimpulan hasil test tersebut, contoh tabel:
-    - https://docs.google.com/spreadsheets/d/1MrFHM5Rek4VaHUBjxjsx6ZlGkaZY4GWLBLXrQtZO2Wo/edit?usp=sharing/
+Laporan disubmit dalam bentuk 
+- 1 dokumen PDF, maks 10 halaman 
+- Isikan alamat repository yang berkaitan dengan tugas diatas
+- Spek komputer yang digunakan untuk menjalankan server dan melakukan testing, beserta gambar arsitektur percobaan
+- Tabel perbandingan dalam PDF yang sama dan lengkapi dengan penjelasan dan deskripsi dan kesimpulan hasil test tersebut, contoh tabel:
+  - https://docs.google.com/spreadsheets/d/1MrFHM5Rek4VaHUBjxjsx6ZlGkaZY4GWLBLXrQtZO2Wo/edit?usp=sharing/
 
-- Tambahan referensi mengenai multiprocessing & multithreading 
-  - https://superfastpython.com/multiprocessing-in-python/#Python_Processes
-  - https://superfastpython.com/what-is-a-thread-in-python/ 
-  - Contoh eksekusi ab untuk 1000 request dengan 1 client:
+Tambahan referensi mengenai multiprocessing & multithreading 
+- https://superfastpython.com/multiprocessing-in-python/#Python_Processes
+- https://superfastpython.com/what-is-a-thread-in-python/ 
+- Contoh eksekusi ab untuk 1000 request dengan 1 client:
 
 <img width="345" alt="image" src="https://github.com/adrianazizsantoso/tugas-ets-pemrograman-jaringan/assets/115202624/0e5ce083-795b-4b51-aafd-9a2a1923716a">
 
